@@ -1,0 +1,4 @@
+startup_message off
+vbell off
+hardstatus alwayslastline
+hardstatus string "%{= G}[ %{b}%H %{g}] [%{W}%?%-Lw%?%{wb}%n*%f %t%{kW}%?%+Lw%? %-30=%{g}] [ %{W}%Y-%m-%d %c%{g} ]"

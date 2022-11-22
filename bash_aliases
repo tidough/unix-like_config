@@ -1,7 +1,7 @@
 # copy from oh-my-zsh
 
 # git
-alias glog='git log --oneline --decorate'
+alias glog='git log --oneline --decorate --graph'
 alias gst='git status'
 
 # ls, the common ones I use a lot shortened for rapid fire usage
